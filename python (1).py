@@ -1,0 +1,1 @@
+np.linspac(-2,2,num=7)
